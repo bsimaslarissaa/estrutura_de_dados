@@ -1,8 +1,8 @@
 # Estrutura de Dados - Universidade de Vassouras
 
-## Curso: Engenharia de Software
-## Período: Terceiro Período (2026.1)
-## Professor(a): Gioliano Bertoni
+### Curso: Engenharia de Software
+### Período: Terceiro Período (2026.1)
+### Professor(a): Gioliano Bertoni
 ### Objetivo: Aprender conceitos básicos de estruturas de dados como vetores, listas, pilhas, filas, árvores, etc., e praticar programação em C.
 
 
