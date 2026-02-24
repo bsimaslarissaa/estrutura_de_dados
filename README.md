@@ -8,6 +8,6 @@
 
 Esse repositório é onde eu guardo todos os códigos e exercícios da matéria Estrutura de Dados da Universidade de Vassouras (Saquarema, RJ).
 
-Com listas de exercícios, trabalhos e códigos que faço durante o semestre. 
+Com listas de exercícios, trabalhos e códigos realizados durante o semestre. 
 
 
