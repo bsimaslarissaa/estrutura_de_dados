@@ -1,0 +1,44 @@
+RELATÓRIO – SISTEMA DE SUPORTE TÉCNICO
+
+Objetivo
+
+O objetivo do projeto foi desenvolver um sistema simplificado de suporte técnico utilizando estruturas de dados em linguagem C.
+Foram utilizadas fila, pilha e lista encadeada para simular situações reais de um setor de TI.
+
+Estruturas Utilizadas
+
+2.1 Fila de Chamados
+
+A fila foi utilizada para organizar os chamados técnicos por ordem de chegada, seguindo o modelo FIFO (First In, First Out). 
+Dessa forma, o primeiro chamado aberto é o primeiro a ser atendido.
+
+Operações implementadas:
+
+Abrir chamado
+Atender chamado
+Listar chamados pendentes
+
+**2.2 Pilha de Logs**
+
+A pilha foi utilizada para registrar ações recentes do administrador da rede. 
+O funcionamento segue o modelo LIFO (Last In, First Out), onde a última ação registrada é a primeira a ser desfeita.
+
+Operações implementadas:
+
+Registrar ação
+Desfazer ação
+Mostrar histórico
+
+2.3 Lista Encadeada de Equipamentos
+
+A lista encadeada foi utilizada para armazenar os equipamentos da empresa de forma dinâmica, permitindo inserções e remoções sem necessidade de realocação de memória.
+
+Operações implementadas:
+
+Adicionar equipamento
+Buscar equipamento
+Remover equipamento
+Listar equipamentos
+Conclusão
+
+O projeto permitiu aplicar conceitos importantes de estruturas de dados utilizando linguagem C. Foi possível compreender o funcionamento prático de filas, pilhas e listas encadeadas em situações semelhantes às encontradas em ambientes reais de suporte técnico e administração de redes.
